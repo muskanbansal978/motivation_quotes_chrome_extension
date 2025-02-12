@@ -15,12 +15,7 @@ A simple Chrome extension that displays a **random motivational quote over a bea
 - How to **randomly load images** from an array in JavaScript.
 - How to **display quotes dynamically** using the DOM (`innerText`).
 - How to style and center text **over images using CSS**.
-
-### ✅ **3. Debugging and Enhancements**
-- How to **test and load an unpacked extension** in Chrome.
-- How to **fix missing images or quotes** by checking the Chrome console.
-- How to enhance the extension with **real-time quotes from an API** or local storage.
-
+  
 ---
 
 ## 🛠️ How to Use the Extension
