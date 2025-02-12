@@ -33,17 +33,7 @@ A simple Chrome extension that displays a **random motivational quote over a bea
 - Press **`Ctrl + T`** (Windows/Linux) or **`Cmd + T`** (Mac).
 - A **random motivational quote** will appear over a **random image**.
 - Each time you open a new tab, you'll see **a new image and quote.**
-
----
-
-### **3️⃣ Troubleshooting**
-If something isn't working:
-1. Go to `chrome://extensions/` → Click **Reload** on the extension.
-2. Open the **Developer Console (`F12` → Console Tab)** to check for errors.
-3. Ensure the **image paths are correct** in `script.js`.
-
----
-
+  
 ---
 
 ### **📌 Made with ❤️ to inspire your day!**
