@@ -27,8 +27,6 @@ A simple Chrome extension that displays a **random motivational quote over a bea
 4. **Click "Load unpacked"** and select your **extension folder**.
 5. The extension is now installed! 🎉
 
----
-
 ### **2️⃣ Open a New Tab**
 - Press **`Ctrl + T`** (Windows/Linux) or **`Cmd + T`** (Mac).
 - A **random motivational quote** will appear over a **random image**.
