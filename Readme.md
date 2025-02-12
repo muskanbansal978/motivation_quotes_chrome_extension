@@ -49,12 +49,6 @@ If something isn't working:
 
 ---
 
-## 🚀 Future Enhancements
-Want to make this even better?
-- Add a **refresh button** to change the quote/image without opening a new tab.
-- Fetch **real-time quotes from an API** like `https://type.fit/api/quotes`.
-- Allow users to **save their favorite quotes** using local storage.
-
 ---
 
 ### **📌 Made with ❤️ to inspire your day!**
